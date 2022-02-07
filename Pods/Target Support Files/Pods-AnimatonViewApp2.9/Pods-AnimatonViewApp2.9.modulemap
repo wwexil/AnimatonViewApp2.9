@@ -1,0 +1,6 @@
+framework module Pods_AnimatonViewApp2_9 {
+  umbrella header "Pods-AnimatonViewApp2.9-umbrella.h"
+
+  export *
+  module * { export * }
+}
